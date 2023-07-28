@@ -1,5 +1,5 @@
-# mentor_1_results
-# https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV
+# mentor_2_results
+# [[https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29/hub)](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29)
 
 This template should help get you started developing with Vue 3 in Vite.
 
